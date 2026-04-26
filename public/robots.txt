@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://psi-maiara-dias.vercel.app/sitemap.xml
