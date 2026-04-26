@@ -1,4 +1,5 @@
 /* Blog Section Component */
+import React from 'react';
 
 const BLOG_POSTS = [
   {

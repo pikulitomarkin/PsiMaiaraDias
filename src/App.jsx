@@ -1,4 +1,6 @@
 /* Main App Component — Maiara Psicóloga */
+import React from 'react';
+import BlogSection from './BlogSection.jsx';
 
 const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
   "accentColor": "#bc7880",
