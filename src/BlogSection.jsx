@@ -130,4 +130,4 @@ function BlogSection({ colors, headingFont, br }) {
   );
 }
 
-window.BlogSection = BlogSection;
+export default BlogSection;
